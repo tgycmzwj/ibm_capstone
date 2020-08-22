@@ -32,8 +32,8 @@ results_table.shape
 #%% get geo information
 !wget -q -O 'geo.csv' https://cocl.us/Geospatial_data
 #%%
-
-
+geo=pd.DataFrame.from_csv('geo.csv')
+results_table=results_table.merge(geo,left_on='PostalCode',right_index=True)
 
 
 
