@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  22 AUG 2020 09:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  22 AUG 2020 15:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -191,28 +191,60 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <14.4> on input line 15.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 15.
+<image/1.png, id=1, 772.8875pt x 461.22313pt>
+File: image/1.png Graphic file (type png)
+<use image/1.png>
+Package pdftex.def Info: image/1.png  used on input line 30.
+(pdftex.def)             Requested size: 425.08943pt x 253.6735pt.
 [1
 
 {/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+<image/2.png, id=13, 809.0225pt x 538.01pt>
+File: image/2.png Graphic file (type png)
+<use image/2.png>
+Package pdftex.def Info: image/2.png  used on input line 33.
+(pdftex.def)             Requested size: 444.96376pt x 295.9064pt.
+
+Overfull \hbox (18.17242pt too wide) in paragraph at lines 32--34
+[] 
+ []
+
+<image/3.png, id=14, 807.015pt x 634.37pt>
+File: image/3.png Graphic file (type png)
+<use image/3.png>
+Package pdftex.def Info: image/3.png  used on input line 36.
+(pdftex.def)             Requested size: 443.85962pt x 348.90457pt.
+
+Overfull \hbox (17.06828pt too wide) in paragraph at lines 35--37
+[] 
+ []
+
+[2 <./image/1.png> <./image/2.png>]
+<image/4.png, id=20, 437.13312pt x 544.0325pt>
+File: image/4.png Graphic file (type png)
+<use image/4.png>
+Package pdftex.def Info: image/4.png  used on input line 41.
+(pdftex.def)             Requested size: 240.42395pt x 299.2188pt.
+ [3 <./image/3.png>] [4 <./image/4.png>]
 (./report.aux) ) 
 Here is how much of TeX's memory you used:
- 1927 strings out of 492616
- 28209 string characters out of 6129482
- 98798 words of memory out of 5000000
- 5849 multiletter control sequences out of 15000+600000
+ 1949 strings out of 492616
+ 28491 string characters out of 6129482
+ 99798 words of memory out of 5000000
+ 5865 multiletter control sequences out of 15000+600000
  6364 words of font info for 23 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,6n,25p,440b,189s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,6n,25p,954b,189s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmbx10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmbx12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/c
 m/cmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmr12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 r17.pfb>
-Output written on report.pdf (1 page, 61590 bytes).
+Output written on report.pdf (4 pages, 2035178 bytes).
 PDF statistics:
- 28 PDF objects out of 1000 (max. 8388607)
- 19 compressed objects within 1 object stream
+ 46 PDF objects out of 1000 (max. 8388607)
+ 26 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
